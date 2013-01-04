@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Manuel\Eclipse IDE\adt-bundle-windows-x86_64\workspace\wifi_scheduler\.metadata\.plugins\org.eclipse.jdt.core
+267209938.index
+2078284524.index
+3675701835.index

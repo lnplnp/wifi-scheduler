@@ -1,0 +1,9 @@
+C:\Users\Manuel\Eclipse IDE\adt-bundle-windows-x86_64C:\Users\Manuel\Eclipse IDE\adt-bundle-windows-x86_64C:\Users\Manuel\Eclipse IDE\adt-bundle-windows-x86_64<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WIFI Scheduler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="say_hello">Say Hello...</string>
+
+</resources>
