@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract local variable &apos;visibility&apos; from expression &apos;textViewHelloWorld.getVisibility() == View.VISIBLE?View.INVISIBLE:View.VISIBLE&apos;&#x0D;&#x0A;- Original project: &apos;WIFIScheduler&apos;&#x0D;&#x0A;- Variable name: &apos;visibility&apos;&#x0D;&#x0A;- Destination method: &apos;me.manuelpayet.wifischeduler.MainActivity.onCreate().new OnClickListener() {...}.onClick()&apos;&#x0D;&#x0A;- Variable expression: &apos;textViewHelloWorld.getVisibility() == View.VISIBLE?View.INVISIBLE:View.VISIBLE&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;visibility&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;me.manuelpayet.wifischeduler{MainActivity.java" name="visibility" replace="true" selection="716 95" stamp="1357306284953" version="1.0"/>
-</session>
